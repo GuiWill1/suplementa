@@ -14,23 +14,22 @@
 		A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40CECAA1F16D2D100EB6106 /* LaunchScreen.storyboard */; };
 		A40CECB71F16D2D100EB6106 /* MyMoneyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECB61F16D2D100EB6106 /* MyMoneyTests.swift */; };
 		A40CECC21F16D2D100EB6106 /* MyMoneyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */; };
-		A4B2C0601F1800C3009EDD03 /* icons8-Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */; };
-		A4B2C0621F180113009EDD03 /* icons8-Search-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0611F180113009EDD03 /* icons8-Search-25.png */; };
-		A4B2C0681F182222009EDD03 /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */; };
-		A4B2C07C1F18237B009EDD03 /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */; };
-		A4B2C0851F1829D3009EDD03 /* icons8-up Price-100 .png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */; };
-		A4B2C0861F1829D3009EDD03 /* icons8-Low Price-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */; };
-		A4B2C0901F182C7B009EDD03 /* icons8-Insecticide-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */; };
-		A4B2C0921F182C7B009EDD03 /* icons8-Grass-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */; };
-		A4B2C0981F18409F009EDD03 /* icons8-Bar Chart-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */; };
-		A4EBD6F11F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */; };
-		A4EBD6F31F185780005676CC /* icons8-Farm 2-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */; };
-		A4EBD6F51F1857D5005676CC /* icons8-Cow Filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */; };
-		A4EBD6F91F1859B6005676CC /* icons8-Milk Bottle-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */; };
-		A4EBD6FB1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */; };
-		A4EBD6FD1F185BDC005676CC /* icons8-Syringe-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */; };
-		A4EBD6FF1F185F8A005676CC /* icons8-View Module-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */; };
-		A4EBD7051F187312005676CC /* br4Kb.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD7041F187312005676CC /* br4Kb.png */; };
+		A4590B7B1F18859300F7E5EA /* br4Kb.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6A1F18859200F7E5EA /* br4Kb.png */; };
+		A4590B7C1F18859300F7E5EA /* icons8-Bar Chart-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */; };
+		A4590B7D1F18859300F7E5EA /* icons8-Cow Filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */; };
+		A4590B7E1F18859300F7E5EA /* icons8-Farm 2-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */; };
+		A4590B7F1F18859300F7E5EA /* icons8-Grass-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */; };
+		A4590B801F18859300F7E5EA /* icons8-Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */; };
+		A4590B811F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */; };
+		A4590B821F18859300F7E5EA /* icons8-Insecticide-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */; };
+		A4590B831F18859300F7E5EA /* icons8-Low Price-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */; };
+		A4590B841F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */; };
+		A4590B851F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */; };
+		A4590B871F18859300F7E5EA /* icons8-Syringe-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */; };
+		A4590B881F18859300F7E5EA /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */; };
+		A4590B891F18859300F7E5EA /* icons8-up Price-100 .png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */; };
+		A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B791F18859300F7E5EA /* icons8-View Module-100.png */; };
+		A4590B8B1F18859300F7E5EA /* Settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B7A1F18859300F7E5EA /* Settings-25.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,23 +63,22 @@
 		A40CECBD1F16D2D100EB6106 /* MyMoneyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMoneyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMoneyUITests.swift; sourceTree = "<group>"; };
 		A40CECC31F16D2D100EB6106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Home-25.png"; path = "../../../../../../Downloads/icons8-Home-25.png"; sourceTree = "<group>"; };
-		A4B2C0611F180113009EDD03 /* icons8-Search-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Search-25.png"; path = "../../../../../../Downloads/icons8-Search-25.png"; sourceTree = "<group>"; };
-		A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Todo List-25.png"; path = "../../../../../../Downloads/icons8-Todo List-25.png"; sourceTree = "<group>"; };
-		A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Todo List-25.png"; path = "../../../../../../Downloads/icons8-Todo List-25.png"; sourceTree = "<group>"; };
-		A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-up Price-100 .png"; path = "../../../../../../Downloads/icons8-up Price-100 .png"; sourceTree = "<group>"; };
-		A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Low Price-100.png"; path = "../../../../../../Downloads/icons8-Low Price-100.png"; sourceTree = "<group>"; };
-		A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Insecticide-100.png"; path = "../../../../../../Downloads/icons8-Insecticide-100.png"; sourceTree = "<group>"; };
-		A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Grass-100.png"; path = "../../../../../../Downloads/icons8-Grass-100.png"; sourceTree = "<group>"; };
-		A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Bar Chart-25.png"; path = "../../../../../../Downloads/icons8-Bar Chart-25.png"; sourceTree = "<group>"; };
-		A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Hygrometer Filled-100 (1).png"; path = "../../../../../../Downloads/icons8-Hygrometer Filled-100 (1).png"; sourceTree = "<group>"; };
-		A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Farm 2-100 (1).png"; path = "../../../../../../Downloads/icons8-Farm 2-100 (1).png"; sourceTree = "<group>"; };
-		A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Cow Filled-100.png"; path = "../../../../../../Downloads/icons8-Cow Filled-100.png"; sourceTree = "<group>"; };
-		A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Milk Bottle-100 (1).png"; path = "../../../../../../Downloads/icons8-Milk Bottle-100 (1).png"; sourceTree = "<group>"; };
-		A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Sack of Flour-100 (1).png"; path = "../../../../../../Downloads/icons8-Sack of Flour-100 (1).png"; sourceTree = "<group>"; };
-		A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Syringe-100 (1).png"; path = "../../../../../../Downloads/icons8-Syringe-100 (1).png"; sourceTree = "<group>"; };
-		A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-View Module-100.png"; path = "../../../../../../Downloads/icons8-View Module-100.png"; sourceTree = "<group>"; };
-		A4EBD7041F187312005676CC /* br4Kb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = br4Kb.png; path = ../../../../../../Downloads/br4Kb.png; sourceTree = "<group>"; };
+		A4590B6A1F18859200F7E5EA /* br4Kb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = br4Kb.png; sourceTree = "<group>"; };
+		A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Bar Chart-25.png"; sourceTree = "<group>"; };
+		A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Cow Filled-100.png"; sourceTree = "<group>"; };
+		A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Farm 2-100 (1).png"; sourceTree = "<group>"; };
+		A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Grass-100.png"; sourceTree = "<group>"; };
+		A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Home-25.png"; sourceTree = "<group>"; };
+		A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Hygrometer Filled-100 (1).png"; sourceTree = "<group>"; };
+		A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Insecticide-100.png"; sourceTree = "<group>"; };
+		A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Low Price-100.png"; sourceTree = "<group>"; };
+		A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Milk Bottle-100 (1).png"; sourceTree = "<group>"; };
+		A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Sack of Flour-100 (1).png"; sourceTree = "<group>"; };
+		A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Syringe-100 (1).png"; sourceTree = "<group>"; };
+		A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Todo List-25.png"; sourceTree = "<group>"; };
+		A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-up Price-100 .png"; sourceTree = "<group>"; };
+		A4590B791F18859300F7E5EA /* icons8-View Module-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-View Module-100.png"; sourceTree = "<group>"; };
+		A4590B7A1F18859300F7E5EA /* Settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings-25.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,23 +162,22 @@
 		A4B2C05B1F17FF38009EDD03 /* Img */ = {
 			isa = PBXGroup;
 			children = (
-				A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */,
-				A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */,
-				A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */,
-				A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */,
-				A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */,
-				A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */,
-				A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */,
-				A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */,
-				A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */,
-				A4B2C0611F180113009EDD03 /* icons8-Search-25.png */,
-				A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */,
-				A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */,
-				A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */,
-				A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */,
-				A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */,
-				A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */,
-				A4EBD7041F187312005676CC /* br4Kb.png */,
+				A4590B6A1F18859200F7E5EA /* br4Kb.png */,
+				A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */,
+				A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */,
+				A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */,
+				A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */,
+				A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */,
+				A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */,
+				A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */,
+				A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */,
+				A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */,
+				A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */,
+				A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */,
+				A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */,
+				A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */,
+				A4590B791F18859300F7E5EA /* icons8-View Module-100.png */,
+				A4590B7A1F18859300F7E5EA /* Settings-25.png */,
 			);
 			path = Img;
 			sourceTree = "<group>";
@@ -302,26 +299,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4B2C0921F182C7B009EDD03 /* icons8-Grass-100.png in Resources */,
-				A4EBD6FB1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png in Resources */,
-				A4B2C0901F182C7B009EDD03 /* icons8-Insecticide-100.png in Resources */,
-				A4EBD6F11F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png in Resources */,
 				A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */,
-				A4B2C07C1F18237B009EDD03 /* icons8-Todo List-25.png in Resources */,
-				A4EBD6F51F1857D5005676CC /* icons8-Cow Filled-100.png in Resources */,
+				A4590B7B1F18859300F7E5EA /* br4Kb.png in Resources */,
+				A4590B891F18859300F7E5EA /* icons8-up Price-100 .png in Resources */,
+				A4590B881F18859300F7E5EA /* icons8-Todo List-25.png in Resources */,
+				A4590B811F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png in Resources */,
 				A40CECA91F16D2D100EB6106 /* Assets.xcassets in Resources */,
-				A4B2C0861F1829D3009EDD03 /* icons8-Low Price-100.png in Resources */,
-				A4EBD6FF1F185F8A005676CC /* icons8-View Module-100.png in Resources */,
-				A4EBD6FD1F185BDC005676CC /* icons8-Syringe-100 (1).png in Resources */,
-				A4B2C0851F1829D3009EDD03 /* icons8-up Price-100 .png in Resources */,
-				A4B2C0681F182222009EDD03 /* icons8-Todo List-25.png in Resources */,
-				A4B2C0601F1800C3009EDD03 /* icons8-Home-25.png in Resources */,
-				A4B2C0621F180113009EDD03 /* icons8-Search-25.png in Resources */,
+				A4590B7C1F18859300F7E5EA /* icons8-Bar Chart-25.png in Resources */,
+				A4590B7D1F18859300F7E5EA /* icons8-Cow Filled-100.png in Resources */,
+				A4590B801F18859300F7E5EA /* icons8-Home-25.png in Resources */,
+				A4590B831F18859300F7E5EA /* icons8-Low Price-100.png in Resources */,
+				A4590B821F18859300F7E5EA /* icons8-Insecticide-100.png in Resources */,
 				A40CECA71F16D2D100EB6106 /* Main.storyboard in Resources */,
-				A4B2C0981F18409F009EDD03 /* icons8-Bar Chart-25.png in Resources */,
-				A4EBD6F31F185780005676CC /* icons8-Farm 2-100 (1).png in Resources */,
-				A4EBD6F91F1859B6005676CC /* icons8-Milk Bottle-100 (1).png in Resources */,
-				A4EBD7051F187312005676CC /* br4Kb.png in Resources */,
+				A4590B851F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png in Resources */,
+				A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */,
+				A4590B841F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png in Resources */,
+				A4590B7F1F18859300F7E5EA /* icons8-Grass-100.png in Resources */,
+				A4590B7E1F18859300F7E5EA /* icons8-Farm 2-100 (1).png in Resources */,
+				A4590B871F18859300F7E5EA /* icons8-Syringe-100 (1).png in Resources */,
+				A4590B8B1F18859300F7E5EA /* Settings-25.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
