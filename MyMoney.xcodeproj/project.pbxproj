@@ -30,6 +30,7 @@
 		A4590B891F18859300F7E5EA /* icons8-up Price-100 .png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */; };
 		A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B791F18859300F7E5EA /* icons8-View Module-100.png */; };
 		A4590B8B1F18859300F7E5EA /* Settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B7A1F18859300F7E5EA /* Settings-25.png */; };
+		A4D66FA71F192DA200E8C136 /* icons8-Farm-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-up Price-100 .png"; sourceTree = "<group>"; };
 		A4590B791F18859300F7E5EA /* icons8-View Module-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-View Module-100.png"; sourceTree = "<group>"; };
 		A4590B7A1F18859300F7E5EA /* Settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings-25.png"; sourceTree = "<group>"; };
+		A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Farm-25.png"; path = "../../../../../../Downloads/icons8-Farm-25.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 				A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */,
 				A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */,
 				A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */,
+				A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */,
 				A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */,
 				A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */,
 				A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */,
@@ -314,6 +317,7 @@
 				A4590B851F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png in Resources */,
 				A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */,
 				A4590B841F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png in Resources */,
+				A4D66FA71F192DA200E8C136 /* icons8-Farm-25.png in Resources */,
 				A4590B7F1F18859300F7E5EA /* icons8-Grass-100.png in Resources */,
 				A4590B7E1F18859300F7E5EA /* icons8-Farm 2-100 (1).png in Resources */,
 				A4590B871F18859300F7E5EA /* icons8-Syringe-100 (1).png in Resources */,
