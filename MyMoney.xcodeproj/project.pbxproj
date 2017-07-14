@@ -14,6 +14,23 @@
 		A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40CECAA1F16D2D100EB6106 /* LaunchScreen.storyboard */; };
 		A40CECB71F16D2D100EB6106 /* MyMoneyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECB61F16D2D100EB6106 /* MyMoneyTests.swift */; };
 		A40CECC21F16D2D100EB6106 /* MyMoneyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */; };
+		A4B2C0601F1800C3009EDD03 /* icons8-Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */; };
+		A4B2C0621F180113009EDD03 /* icons8-Search-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0611F180113009EDD03 /* icons8-Search-25.png */; };
+		A4B2C0681F182222009EDD03 /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */; };
+		A4B2C07C1F18237B009EDD03 /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */; };
+		A4B2C0851F1829D3009EDD03 /* icons8-up Price-100 .png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */; };
+		A4B2C0861F1829D3009EDD03 /* icons8-Low Price-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */; };
+		A4B2C0901F182C7B009EDD03 /* icons8-Insecticide-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */; };
+		A4B2C0921F182C7B009EDD03 /* icons8-Grass-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */; };
+		A4B2C0981F18409F009EDD03 /* icons8-Bar Chart-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */; };
+		A4EBD6F11F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */; };
+		A4EBD6F31F185780005676CC /* icons8-Farm 2-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */; };
+		A4EBD6F51F1857D5005676CC /* icons8-Cow Filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */; };
+		A4EBD6F91F1859B6005676CC /* icons8-Milk Bottle-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */; };
+		A4EBD6FB1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */; };
+		A4EBD6FD1F185BDC005676CC /* icons8-Syringe-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */; };
+		A4EBD6FF1F185F8A005676CC /* icons8-View Module-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */; };
+		A4EBD7051F187312005676CC /* br4Kb.png in Resources */ = {isa = PBXBuildFile; fileRef = A4EBD7041F187312005676CC /* br4Kb.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +64,23 @@
 		A40CECBD1F16D2D100EB6106 /* MyMoneyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMoneyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMoneyUITests.swift; sourceTree = "<group>"; };
 		A40CECC31F16D2D100EB6106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Home-25.png"; path = "../../../../../../Downloads/icons8-Home-25.png"; sourceTree = "<group>"; };
+		A4B2C0611F180113009EDD03 /* icons8-Search-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Search-25.png"; path = "../../../../../../Downloads/icons8-Search-25.png"; sourceTree = "<group>"; };
+		A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Todo List-25.png"; path = "../../../../../../Downloads/icons8-Todo List-25.png"; sourceTree = "<group>"; };
+		A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Todo List-25.png"; path = "../../../../../../Downloads/icons8-Todo List-25.png"; sourceTree = "<group>"; };
+		A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-up Price-100 .png"; path = "../../../../../../Downloads/icons8-up Price-100 .png"; sourceTree = "<group>"; };
+		A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Low Price-100.png"; path = "../../../../../../Downloads/icons8-Low Price-100.png"; sourceTree = "<group>"; };
+		A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Insecticide-100.png"; path = "../../../../../../Downloads/icons8-Insecticide-100.png"; sourceTree = "<group>"; };
+		A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Grass-100.png"; path = "../../../../../../Downloads/icons8-Grass-100.png"; sourceTree = "<group>"; };
+		A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Bar Chart-25.png"; path = "../../../../../../Downloads/icons8-Bar Chart-25.png"; sourceTree = "<group>"; };
+		A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Hygrometer Filled-100 (1).png"; path = "../../../../../../Downloads/icons8-Hygrometer Filled-100 (1).png"; sourceTree = "<group>"; };
+		A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Farm 2-100 (1).png"; path = "../../../../../../Downloads/icons8-Farm 2-100 (1).png"; sourceTree = "<group>"; };
+		A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Cow Filled-100.png"; path = "../../../../../../Downloads/icons8-Cow Filled-100.png"; sourceTree = "<group>"; };
+		A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Milk Bottle-100 (1).png"; path = "../../../../../../Downloads/icons8-Milk Bottle-100 (1).png"; sourceTree = "<group>"; };
+		A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Sack of Flour-100 (1).png"; path = "../../../../../../Downloads/icons8-Sack of Flour-100 (1).png"; sourceTree = "<group>"; };
+		A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Syringe-100 (1).png"; path = "../../../../../../Downloads/icons8-Syringe-100 (1).png"; sourceTree = "<group>"; };
+		A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-View Module-100.png"; path = "../../../../../../Downloads/icons8-View Module-100.png"; sourceTree = "<group>"; };
+		A4EBD7041F187312005676CC /* br4Kb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = br4Kb.png; path = ../../../../../../Downloads/br4Kb.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +131,8 @@
 		A40CECA01F16D2D100EB6106 /* MyMoney */ = {
 			isa = PBXGroup;
 			children = (
+				A4B2C05B1F17FF38009EDD03 /* Img */,
+				A4B2C05C1F17FF38009EDD03 /* Viewcontrollers */,
 				A40CECA11F16D2D100EB6106 /* AppDelegate.swift */,
 				A40CECA31F16D2D100EB6106 /* ViewController.swift */,
 				A40CECA51F16D2D100EB6106 /* Main.storyboard */,
@@ -123,6 +159,37 @@
 				A40CECC31F16D2D100EB6106 /* Info.plist */,
 			);
 			path = MyMoneyUITests;
+			sourceTree = "<group>";
+		};
+		A4B2C05B1F17FF38009EDD03 /* Img */ = {
+			isa = PBXGroup;
+			children = (
+				A4EBD6F01F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png */,
+				A4B2C0881F182C7B009EDD03 /* icons8-Insecticide-100.png */,
+				A4B2C08A1F182C7B009EDD03 /* icons8-Grass-100.png */,
+				A4EBD6F21F185780005676CC /* icons8-Farm 2-100 (1).png */,
+				A4EBD6F81F1859B6005676CC /* icons8-Milk Bottle-100 (1).png */,
+				A4EBD6F41F1857D5005676CC /* icons8-Cow Filled-100.png */,
+				A4B2C0721F18237B009EDD03 /* icons8-Todo List-25.png */,
+				A4B2C0971F18409F009EDD03 /* icons8-Bar Chart-25.png */,
+				A4B2C05F1F1800C3009EDD03 /* icons8-Home-25.png */,
+				A4B2C0611F180113009EDD03 /* icons8-Search-25.png */,
+				A4B2C0821F1829D3009EDD03 /* icons8-up Price-100 .png */,
+				A4B2C0831F1829D3009EDD03 /* icons8-Low Price-100.png */,
+				A4B2C0671F182222009EDD03 /* icons8-Todo List-25.png */,
+				A4EBD6FA1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png */,
+				A4EBD6FC1F185BDC005676CC /* icons8-Syringe-100 (1).png */,
+				A4EBD6FE1F185F8A005676CC /* icons8-View Module-100.png */,
+				A4EBD7041F187312005676CC /* br4Kb.png */,
+			);
+			path = Img;
+			sourceTree = "<group>";
+		};
+		A4B2C05C1F17FF38009EDD03 /* Viewcontrollers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Viewcontrollers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +302,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4B2C0921F182C7B009EDD03 /* icons8-Grass-100.png in Resources */,
+				A4EBD6FB1F185AF8005676CC /* icons8-Sack of Flour-100 (1).png in Resources */,
+				A4B2C0901F182C7B009EDD03 /* icons8-Insecticide-100.png in Resources */,
+				A4EBD6F11F1853AB005676CC /* icons8-Hygrometer Filled-100 (1).png in Resources */,
 				A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */,
+				A4B2C07C1F18237B009EDD03 /* icons8-Todo List-25.png in Resources */,
+				A4EBD6F51F1857D5005676CC /* icons8-Cow Filled-100.png in Resources */,
 				A40CECA91F16D2D100EB6106 /* Assets.xcassets in Resources */,
+				A4B2C0861F1829D3009EDD03 /* icons8-Low Price-100.png in Resources */,
+				A4EBD6FF1F185F8A005676CC /* icons8-View Module-100.png in Resources */,
+				A4EBD6FD1F185BDC005676CC /* icons8-Syringe-100 (1).png in Resources */,
+				A4B2C0851F1829D3009EDD03 /* icons8-up Price-100 .png in Resources */,
+				A4B2C0681F182222009EDD03 /* icons8-Todo List-25.png in Resources */,
+				A4B2C0601F1800C3009EDD03 /* icons8-Home-25.png in Resources */,
+				A4B2C0621F180113009EDD03 /* icons8-Search-25.png in Resources */,
 				A40CECA71F16D2D100EB6106 /* Main.storyboard in Resources */,
+				A4B2C0981F18409F009EDD03 /* icons8-Bar Chart-25.png in Resources */,
+				A4EBD6F31F185780005676CC /* icons8-Farm 2-100 (1).png in Resources */,
+				A4EBD6F91F1859B6005676CC /* icons8-Milk Bottle-100 (1).png in Resources */,
+				A4EBD7051F187312005676CC /* br4Kb.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,8 +503,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
 				INFOPLIST_FILE = MyMoney/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoney;
+				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MinhaFazenda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -432,8 +517,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
 				INFOPLIST_FILE = MyMoney/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoney;
+				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MinhaFazenda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -516,6 +602,7 @@
 				A40CECC81F16D2D100EB6106 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A40CECC91F16D2D100EB6106 /* Build configuration list for PBXNativeTarget "MyMoneyTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +611,7 @@
 				A40CECCB1F16D2D100EB6106 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A40CECCC1F16D2D100EB6106 /* Build configuration list for PBXNativeTarget "MyMoneyUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +620,7 @@
 				A40CECCE1F16D2D100EB6106 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
