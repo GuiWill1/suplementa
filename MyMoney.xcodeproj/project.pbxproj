@@ -7,30 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40F416E8E96475421495DD33 /* Pods_MyMoney.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA0D53606A76F2D1CF63822E /* Pods_MyMoney.framework */; };
 		A40CECA21F16D2D100EB6106 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECA11F16D2D100EB6106 /* AppDelegate.swift */; };
-		A40CECA41F16D2D100EB6106 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECA31F16D2D100EB6106 /* ViewController.swift */; };
 		A40CECA71F16D2D100EB6106 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40CECA51F16D2D100EB6106 /* Main.storyboard */; };
 		A40CECA91F16D2D100EB6106 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A40CECA81F16D2D100EB6106 /* Assets.xcassets */; };
 		A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40CECAA1F16D2D100EB6106 /* LaunchScreen.storyboard */; };
 		A40CECB71F16D2D100EB6106 /* MyMoneyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECB61F16D2D100EB6106 /* MyMoneyTests.swift */; };
 		A40CECC21F16D2D100EB6106 /* MyMoneyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */; };
-		A4590B7B1F18859300F7E5EA /* br4Kb.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6A1F18859200F7E5EA /* br4Kb.png */; };
-		A4590B7C1F18859300F7E5EA /* icons8-Bar Chart-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */; };
-		A4590B7D1F18859300F7E5EA /* icons8-Cow Filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */; };
-		A4590B7E1F18859300F7E5EA /* icons8-Farm 2-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */; };
-		A4590B7F1F18859300F7E5EA /* icons8-Grass-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */; };
-		A4590B801F18859300F7E5EA /* icons8-Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */; };
-		A4590B811F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */; };
-		A4590B821F18859300F7E5EA /* icons8-Insecticide-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */; };
-		A4590B831F18859300F7E5EA /* icons8-Low Price-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */; };
-		A4590B841F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */; };
-		A4590B851F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */; };
-		A4590B871F18859300F7E5EA /* icons8-Syringe-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */; };
-		A4590B881F18859300F7E5EA /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */; };
-		A4590B891F18859300F7E5EA /* icons8-up Price-100 .png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */; };
-		A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B791F18859300F7E5EA /* icons8-View Module-100.png */; };
-		A4590B8B1F18859300F7E5EA /* Settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4590B7A1F18859300F7E5EA /* Settings-25.png */; };
-		A4D66FA71F192DA200E8C136 /* icons8-Farm-25.png in Resources */ = {isa = PBXBuildFile; fileRef = A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */; };
+		D038C8E35A67989E21D5ED95 /* Pods_MyMoneyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A87D635213A0813CA1B02A28 /* Pods_MyMoneyTests.framework */; };
+		E0263B4121679FD60027390B /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0263B3E21679FA60027390B /* Animal.swift */; };
+		E0263B4221679FD90027390B /* Dieta.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0263B3F21679FB70027390B /* Dieta.swift */; };
+		E0263B4321679FD90027390B /* Produto.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0263B4021679FCE0027390B /* Produto.swift */; };
+		E04B84502167F0B200852CA8 /* IngredientesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04B844F2167F0B200852CA8 /* IngredientesTableViewController.swift */; };
+		E04B84522167F0F000852CA8 /* ingredienteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04B84512167F0F000852CA8 /* ingredienteTableViewCell.swift */; };
+		E051DA2C216697AE009B7496 /* FontBebasNeue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA26216697AC009B7496 /* FontBebasNeue.swift */; };
+		E051DA2D216697AE009B7496 /* NavigationFontBebasNeue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA27216697AD009B7496 /* NavigationFontBebasNeue.swift */; };
+		E051DA2E216697AE009B7496 /* RoundedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA28216697AD009B7496 /* RoundedView.swift */; };
+		E051DA2F216697AE009B7496 /* ImageRounded.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA29216697AD009B7496 /* ImageRounded.swift */; };
+		E051DA30216697AE009B7496 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA2A216697AD009B7496 /* RoundedButton.swift */; };
+		E051DA31216697AE009B7496 /* ImageCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA2B216697AD009B7496 /* ImageCircle.swift */; };
+		E051DA3A21669FA8009B7496 /* icons8-Todo List-25.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3221669FA3009B7496 /* icons8-Todo List-25.png */; };
+		E051DA3B21669FA8009B7496 /* icons8-saco-de-farinha-filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3321669FA4009B7496 /* icons8-saco-de-farinha-filled-50.png */; };
+		E051DA3C21669FA8009B7496 /* icons8-bambu-48.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3421669FA4009B7496 /* icons8-bambu-48.png */; };
+		E051DA3D21669FA8009B7496 /* icons8-Cow Filled-100.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3521669FA6009B7496 /* icons8-Cow Filled-100.png */; };
+		E051DA3E21669FA8009B7496 /* icons8-soja-48.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3621669FA7009B7496 /* icons8-soja-48.png */; };
+		E051DA3F21669FA8009B7496 /* icons8-Sack of Flour-100 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3721669FA7009B7496 /* icons8-Sack of Flour-100 (1).png */; };
+		E051DA4021669FA8009B7496 /* Settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3821669FA8009B7496 /* Settings-25.png */; };
+		E051DA4121669FA8009B7496 /* icons8-milho-48.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3921669FA8009B7496 /* icons8-milho-48.png */; };
+		E051DA432166A3C3009B7496 /* CadastrarAnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */; };
+		F3619A659B181577C0486C53 /* Pods_MyMoneyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68F56093CD8C63347E4985C1 /* Pods_MyMoneyUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,9 +56,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1777201D1D44002638E4E773 /* Pods-MyMoneyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoneyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoneyTests/Pods-MyMoneyTests.release.xcconfig"; sourceTree = "<group>"; };
+		67BDD452184F458998A203F9 /* Pods-MyMoneyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoneyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoneyUITests/Pods-MyMoneyUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		68F56093CD8C63347E4985C1 /* Pods_MyMoneyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyMoneyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F7C6488F213F478D0DBA4D5 /* Pods-MyMoney.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoney.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoney/Pods-MyMoney.debug.xcconfig"; sourceTree = "<group>"; };
+		8B2172FB745F970A0D264493 /* Pods-MyMoney.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoney.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoney/Pods-MyMoney.release.xcconfig"; sourceTree = "<group>"; };
 		A40CEC9E1F16D2D100EB6106 /* MyMoney.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMoney.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40CECA11F16D2D100EB6106 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A40CECA31F16D2D100EB6106 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A40CECA61F16D2D100EB6106 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A40CECA81F16D2D100EB6106 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A40CECAB1F16D2D100EB6106 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -64,23 +73,30 @@
 		A40CECBD1F16D2D100EB6106 /* MyMoneyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMoneyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40CECC11F16D2D100EB6106 /* MyMoneyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMoneyUITests.swift; sourceTree = "<group>"; };
 		A40CECC31F16D2D100EB6106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A4590B6A1F18859200F7E5EA /* br4Kb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = br4Kb.png; sourceTree = "<group>"; };
-		A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Bar Chart-25.png"; sourceTree = "<group>"; };
-		A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Cow Filled-100.png"; sourceTree = "<group>"; };
-		A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Farm 2-100 (1).png"; sourceTree = "<group>"; };
-		A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Grass-100.png"; sourceTree = "<group>"; };
-		A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Home-25.png"; sourceTree = "<group>"; };
-		A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Hygrometer Filled-100 (1).png"; sourceTree = "<group>"; };
-		A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Insecticide-100.png"; sourceTree = "<group>"; };
-		A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Low Price-100.png"; sourceTree = "<group>"; };
-		A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Milk Bottle-100 (1).png"; sourceTree = "<group>"; };
-		A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Sack of Flour-100 (1).png"; sourceTree = "<group>"; };
-		A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Syringe-100 (1).png"; sourceTree = "<group>"; };
-		A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Todo List-25.png"; sourceTree = "<group>"; };
-		A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-up Price-100 .png"; sourceTree = "<group>"; };
-		A4590B791F18859300F7E5EA /* icons8-View Module-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-View Module-100.png"; sourceTree = "<group>"; };
-		A4590B7A1F18859300F7E5EA /* Settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings-25.png"; sourceTree = "<group>"; };
-		A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-Farm-25.png"; path = "../../../../../../Downloads/icons8-Farm-25.png"; sourceTree = "<group>"; };
+		A87D635213A0813CA1B02A28 /* Pods_MyMoneyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyMoneyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA0D53606A76F2D1CF63822E /* Pods_MyMoney.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyMoney.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5175BE372E34513191E173E /* Pods-MyMoneyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoneyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoneyTests/Pods-MyMoneyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E0263B3E21679FA60027390B /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		E0263B3F21679FB70027390B /* Dieta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dieta.swift; sourceTree = "<group>"; };
+		E0263B4021679FCE0027390B /* Produto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Produto.swift; sourceTree = "<group>"; };
+		E04B844F2167F0B200852CA8 /* IngredientesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientesTableViewController.swift; sourceTree = "<group>"; };
+		E04B84512167F0F000852CA8 /* ingredienteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ingredienteTableViewCell.swift; sourceTree = "<group>"; };
+		E051DA26216697AC009B7496 /* FontBebasNeue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontBebasNeue.swift; sourceTree = "<group>"; };
+		E051DA27216697AD009B7496 /* NavigationFontBebasNeue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationFontBebasNeue.swift; sourceTree = "<group>"; };
+		E051DA28216697AD009B7496 /* RoundedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedView.swift; sourceTree = "<group>"; };
+		E051DA29216697AD009B7496 /* ImageRounded.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageRounded.swift; sourceTree = "<group>"; };
+		E051DA2A216697AD009B7496 /* RoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		E051DA2B216697AD009B7496 /* ImageCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageCircle.swift; sourceTree = "<group>"; };
+		E051DA3221669FA3009B7496 /* icons8-Todo List-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Todo List-25.png"; sourceTree = "<group>"; };
+		E051DA3321669FA4009B7496 /* icons8-saco-de-farinha-filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-saco-de-farinha-filled-50.png"; sourceTree = "<group>"; };
+		E051DA3421669FA4009B7496 /* icons8-bambu-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-bambu-48.png"; sourceTree = "<group>"; };
+		E051DA3521669FA6009B7496 /* icons8-Cow Filled-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Cow Filled-100.png"; sourceTree = "<group>"; };
+		E051DA3621669FA7009B7496 /* icons8-soja-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-soja-48.png"; sourceTree = "<group>"; };
+		E051DA3721669FA7009B7496 /* icons8-Sack of Flour-100 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Sack of Flour-100 (1).png"; sourceTree = "<group>"; };
+		E051DA3821669FA8009B7496 /* Settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings-25.png"; sourceTree = "<group>"; };
+		E051DA3921669FA8009B7496 /* icons8-milho-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-milho-48.png"; sourceTree = "<group>"; };
+		E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadastrarAnimalViewController.swift; sourceTree = "<group>"; };
+		FA51214526136AE37151CFEA /* Pods-MyMoneyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoneyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoneyUITests/Pods-MyMoneyUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +104,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40F416E8E96475421495DD33 /* Pods_MyMoney.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,6 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D038C8E35A67989E21D5ED95 /* Pods_MyMoneyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,12 +120,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3619A659B181577C0486C53 /* Pods_MyMoneyUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4DB5DB6A2001E52AE48BDDD4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AA0D53606A76F2D1CF63822E /* Pods_MyMoney.framework */,
+				A87D635213A0813CA1B02A28 /* Pods_MyMoneyTests.framework */,
+				68F56093CD8C63347E4985C1 /* Pods_MyMoneyUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9F6F206580B8531CC158AE84 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6F7C6488F213F478D0DBA4D5 /* Pods-MyMoney.debug.xcconfig */,
+				8B2172FB745F970A0D264493 /* Pods-MyMoney.release.xcconfig */,
+				C5175BE372E34513191E173E /* Pods-MyMoneyTests.debug.xcconfig */,
+				1777201D1D44002638E4E773 /* Pods-MyMoneyTests.release.xcconfig */,
+				67BDD452184F458998A203F9 /* Pods-MyMoneyUITests.debug.xcconfig */,
+				FA51214526136AE37151CFEA /* Pods-MyMoneyUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		A40CEC951F16D2D100EB6106 = {
 			isa = PBXGroup;
 			children = (
@@ -115,6 +157,8 @@
 				A40CECB51F16D2D100EB6106 /* MyMoneyTests */,
 				A40CECC01F16D2D100EB6106 /* MyMoneyUITests */,
 				A40CEC9F1F16D2D100EB6106 /* Products */,
+				9F6F206580B8531CC158AE84 /* Pods */,
+				4DB5DB6A2001E52AE48BDDD4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -131,10 +175,11 @@
 		A40CECA01F16D2D100EB6106 /* MyMoney */ = {
 			isa = PBXGroup;
 			children = (
-				A4B2C05B1F17FF38009EDD03 /* Img */,
-				A4B2C05C1F17FF38009EDD03 /* Viewcontrollers */,
+				E051DA25216688A0009B7496 /* ViewController */,
+				E051DA2421668890009B7496 /* Model */,
+				E051DA232166887B009B7496 /* Assets */,
+				E051DA222166886C009B7496 /* View */,
 				A40CECA11F16D2D100EB6106 /* AppDelegate.swift */,
-				A40CECA31F16D2D100EB6106 /* ViewController.swift */,
 				A40CECA51F16D2D100EB6106 /* Main.storyboard */,
 				A40CECA81F16D2D100EB6106 /* Assets.xcassets */,
 				A40CECAA1F16D2D100EB6106 /* LaunchScreen.storyboard */,
@@ -161,35 +206,52 @@
 			path = MyMoneyUITests;
 			sourceTree = "<group>";
 		};
-		A4B2C05B1F17FF38009EDD03 /* Img */ = {
+		E051DA222166886C009B7496 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				A4590B6A1F18859200F7E5EA /* br4Kb.png */,
-				A4590B6B1F18859300F7E5EA /* icons8-Bar Chart-25.png */,
-				A4590B6C1F18859300F7E5EA /* icons8-Cow Filled-100.png */,
-				A4590B6D1F18859300F7E5EA /* icons8-Farm 2-100 (1).png */,
-				A4590B6E1F18859300F7E5EA /* icons8-Grass-100.png */,
-				A4D66FA61F192DA200E8C136 /* icons8-Farm-25.png */,
-				A4590B6F1F18859300F7E5EA /* icons8-Home-25.png */,
-				A4590B701F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png */,
-				A4590B711F18859300F7E5EA /* icons8-Insecticide-100.png */,
-				A4590B721F18859300F7E5EA /* icons8-Low Price-100.png */,
-				A4590B731F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png */,
-				A4590B741F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png */,
-				A4590B761F18859300F7E5EA /* icons8-Syringe-100 (1).png */,
-				A4590B771F18859300F7E5EA /* icons8-Todo List-25.png */,
-				A4590B781F18859300F7E5EA /* icons8-up Price-100 .png */,
-				A4590B791F18859300F7E5EA /* icons8-View Module-100.png */,
-				A4590B7A1F18859300F7E5EA /* Settings-25.png */,
+				E051DA26216697AC009B7496 /* FontBebasNeue.swift */,
+				E051DA2B216697AD009B7496 /* ImageCircle.swift */,
+				E051DA29216697AD009B7496 /* ImageRounded.swift */,
+				E051DA27216697AD009B7496 /* NavigationFontBebasNeue.swift */,
+				E051DA2A216697AD009B7496 /* RoundedButton.swift */,
+				E051DA28216697AD009B7496 /* RoundedView.swift */,
 			);
-			path = Img;
+			path = View;
 			sourceTree = "<group>";
 		};
-		A4B2C05C1F17FF38009EDD03 /* Viewcontrollers */ = {
+		E051DA232166887B009B7496 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				E051DA3421669FA4009B7496 /* icons8-bambu-48.png */,
+				E051DA3521669FA6009B7496 /* icons8-Cow Filled-100.png */,
+				E051DA3921669FA8009B7496 /* icons8-milho-48.png */,
+				E051DA3721669FA7009B7496 /* icons8-Sack of Flour-100 (1).png */,
+				E051DA3321669FA4009B7496 /* icons8-saco-de-farinha-filled-50.png */,
+				E051DA3621669FA7009B7496 /* icons8-soja-48.png */,
+				E051DA3221669FA3009B7496 /* icons8-Todo List-25.png */,
+				E051DA3821669FA8009B7496 /* Settings-25.png */,
 			);
-			path = Viewcontrollers;
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		E051DA2421668890009B7496 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E0263B3E21679FA60027390B /* Animal.swift */,
+				E0263B3F21679FB70027390B /* Dieta.swift */,
+				E0263B4021679FCE0027390B /* Produto.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E051DA25216688A0009B7496 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */,
+				E04B844F2167F0B200852CA8 /* IngredientesTableViewController.swift */,
+				E04B84512167F0F000852CA8 /* ingredienteTableViewCell.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +261,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A40CECC61F16D2D100EB6106 /* Build configuration list for PBXNativeTarget "MyMoney" */;
 			buildPhases = (
+				1E64C967DF4D3C7AD8AE19A8 /* [CP] Check Pods Manifest.lock */,
 				A40CEC9A1F16D2D100EB6106 /* Sources */,
 				A40CEC9B1F16D2D100EB6106 /* Frameworks */,
 				A40CEC9C1F16D2D100EB6106 /* Resources */,
+				4B8A067CA3316FE2DCABEC42 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -216,6 +280,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A40CECC91F16D2D100EB6106 /* Build configuration list for PBXNativeTarget "MyMoneyTests" */;
 			buildPhases = (
+				3EB950BA4FC8E9417F253C49 /* [CP] Check Pods Manifest.lock */,
 				A40CECAE1F16D2D100EB6106 /* Sources */,
 				A40CECAF1F16D2D100EB6106 /* Frameworks */,
 				A40CECB01F16D2D100EB6106 /* Resources */,
@@ -234,6 +299,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A40CECCC1F16D2D100EB6106 /* Build configuration list for PBXNativeTarget "MyMoneyUITests" */;
 			buildPhases = (
+				3C0ED15CF949AD99CB5A2816 /* [CP] Check Pods Manifest.lock */,
 				A40CECB91F16D2D100EB6106 /* Sources */,
 				A40CECBA1F16D2D100EB6106 /* Frameworks */,
 				A40CECBB1F16D2D100EB6106 /* Resources */,
@@ -255,23 +321,26 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "Guilhermy William";
 				TargetAttributes = {
 					A40CEC9D1F16D2D100EB6106 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6H5G2F72ET;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					A40CECB11F16D2D100EB6106 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6H5G2F72ET;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						TestTargetID = A40CEC9D1F16D2D100EB6106;
 					};
 					A40CECBC1F16D2D100EB6106 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6H5G2F72ET;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						TestTargetID = A40CEC9D1F16D2D100EB6106;
 					};
@@ -303,25 +372,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				A40CECAC1F16D2D100EB6106 /* LaunchScreen.storyboard in Resources */,
-				A4590B7B1F18859300F7E5EA /* br4Kb.png in Resources */,
-				A4590B891F18859300F7E5EA /* icons8-up Price-100 .png in Resources */,
-				A4590B881F18859300F7E5EA /* icons8-Todo List-25.png in Resources */,
-				A4590B811F18859300F7E5EA /* icons8-Hygrometer Filled-100 (1).png in Resources */,
+				E051DA3C21669FA8009B7496 /* icons8-bambu-48.png in Resources */,
+				E051DA4121669FA8009B7496 /* icons8-milho-48.png in Resources */,
+				E051DA3A21669FA8009B7496 /* icons8-Todo List-25.png in Resources */,
+				E051DA3B21669FA8009B7496 /* icons8-saco-de-farinha-filled-50.png in Resources */,
 				A40CECA91F16D2D100EB6106 /* Assets.xcassets in Resources */,
-				A4590B7C1F18859300F7E5EA /* icons8-Bar Chart-25.png in Resources */,
-				A4590B7D1F18859300F7E5EA /* icons8-Cow Filled-100.png in Resources */,
-				A4590B801F18859300F7E5EA /* icons8-Home-25.png in Resources */,
-				A4590B831F18859300F7E5EA /* icons8-Low Price-100.png in Resources */,
-				A4590B821F18859300F7E5EA /* icons8-Insecticide-100.png in Resources */,
+				E051DA3F21669FA8009B7496 /* icons8-Sack of Flour-100 (1).png in Resources */,
+				E051DA3E21669FA8009B7496 /* icons8-soja-48.png in Resources */,
 				A40CECA71F16D2D100EB6106 /* Main.storyboard in Resources */,
-				A4590B851F18859300F7E5EA /* icons8-Sack of Flour-100 (1).png in Resources */,
-				A4590B8A1F18859300F7E5EA /* icons8-View Module-100.png in Resources */,
-				A4590B841F18859300F7E5EA /* icons8-Milk Bottle-100 (1).png in Resources */,
-				A4D66FA71F192DA200E8C136 /* icons8-Farm-25.png in Resources */,
-				A4590B7F1F18859300F7E5EA /* icons8-Grass-100.png in Resources */,
-				A4590B7E1F18859300F7E5EA /* icons8-Farm 2-100 (1).png in Resources */,
-				A4590B871F18859300F7E5EA /* icons8-Syringe-100 (1).png in Resources */,
-				A4590B8B1F18859300F7E5EA /* Settings-25.png in Resources */,
+				E051DA3D21669FA8009B7496 /* icons8-Cow Filled-100.png in Resources */,
+				E051DA4021669FA8009B7496 /* Settings-25.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,13 +401,115 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1E64C967DF4D3C7AD8AE19A8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyMoney-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3C0ED15CF949AD99CB5A2816 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyMoneyUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3EB950BA4FC8E9417F253C49 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MyMoneyTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4B8A067CA3316FE2DCABEC42 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MyMoney/Pods-MyMoney-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SQLite.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyMoney/Pods-MyMoney-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		A40CEC9A1F16D2D100EB6106 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A40CECA41F16D2D100EB6106 /* ViewController.swift in Sources */,
+				E04B84502167F0B200852CA8 /* IngredientesTableViewController.swift in Sources */,
+				E051DA2F216697AE009B7496 /* ImageRounded.swift in Sources */,
+				E0263B4221679FD90027390B /* Dieta.swift in Sources */,
+				E051DA31216697AE009B7496 /* ImageCircle.swift in Sources */,
+				E04B84522167F0F000852CA8 /* ingredienteTableViewCell.swift in Sources */,
+				E051DA30216697AE009B7496 /* RoundedButton.swift in Sources */,
+				E051DA2E216697AE009B7496 /* RoundedView.swift in Sources */,
+				E051DA432166A3C3009B7496 /* CadastrarAnimalViewController.swift in Sources */,
+				E051DA2D216697AE009B7496 /* NavigationFontBebasNeue.swift in Sources */,
+				E0263B4321679FD90027390B /* Produto.swift in Sources */,
 				A40CECA21F16D2D100EB6106 /* AppDelegate.swift in Sources */,
+				E051DA2C216697AE009B7496 /* FontBebasNeue.swift in Sources */,
+				E0263B4121679FD60027390B /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,7 +574,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -420,7 +584,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -443,7 +611,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -463,7 +631,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -471,7 +641,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -488,7 +662,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -499,6 +673,7 @@
 		};
 		A40CECC71F16D2D100EB6106 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6F7C6488F213F478D0DBA4D5 /* Pods-MyMoney.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
@@ -507,12 +682,14 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MinhaFazenda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
 		A40CECC81F16D2D100EB6106 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B2172FB745F970A0D264493 /* Pods-MyMoney.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
@@ -521,12 +698,14 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MinhaFazenda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
 		A40CECCA1F16D2D100EB6106 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C5175BE372E34513191E173E /* Pods-MyMoneyTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -535,13 +714,15 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoneyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyMoney.app/MyMoney";
 			};
 			name = Debug;
 		};
 		A40CECCB1F16D2D100EB6106 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1777201D1D44002638E4E773 /* Pods-MyMoneyTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -550,13 +731,15 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoneyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyMoney.app/MyMoney";
 			};
 			name = Release;
 		};
 		A40CECCD1F16D2D100EB6106 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67BDD452184F458998A203F9 /* Pods-MyMoneyUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
@@ -564,13 +747,15 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoneyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = MyMoney;
 			};
 			name = Debug;
 		};
 		A40CECCE1F16D2D100EB6106 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA51214526136AE37151CFEA /* Pods-MyMoneyUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 6H5G2F72ET;
@@ -578,7 +763,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.GuiDev.MyMoneyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = MyMoney;
 			};
 			name = Release;
