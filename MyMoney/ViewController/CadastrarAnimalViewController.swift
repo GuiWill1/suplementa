@@ -10,7 +10,14 @@ import UIKit
 import SQLite3
 
 class CadastrarAnimalViewController: UIViewController {
-
+    
+    //Pra que serve
+    //tantos códigos?
+    //Se a vida
+    //Não é programada
+    //E as melhores coisas
+    //Não tem lógica
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.title = "Cadastrar animal"

@@ -35,6 +35,7 @@
 		E051DA4021669FA8009B7496 /* Settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3821669FA8009B7496 /* Settings-25.png */; };
 		E051DA4121669FA8009B7496 /* icons8-milho-48.png in Resources */ = {isa = PBXBuildFile; fileRef = E051DA3921669FA8009B7496 /* icons8-milho-48.png */; };
 		E051DA432166A3C3009B7496 /* CadastrarAnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */; };
+		E0C4ED352169E347004BD895 /* InicioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C4ED342169E346004BD895 /* InicioViewController.swift */; };
 		F3619A659B181577C0486C53 /* Pods_MyMoneyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68F56093CD8C63347E4985C1 /* Pods_MyMoneyUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -96,6 +97,7 @@
 		E051DA3821669FA8009B7496 /* Settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings-25.png"; sourceTree = "<group>"; };
 		E051DA3921669FA8009B7496 /* icons8-milho-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-milho-48.png"; sourceTree = "<group>"; };
 		E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadastrarAnimalViewController.swift; sourceTree = "<group>"; };
+		E0C4ED342169E346004BD895 /* InicioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InicioViewController.swift; sourceTree = "<group>"; };
 		FA51214526136AE37151CFEA /* Pods-MyMoneyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyMoneyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyMoneyUITests/Pods-MyMoneyUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -250,6 +252,7 @@
 				E051DA422166A3C3009B7496 /* CadastrarAnimalViewController.swift */,
 				E04B844F2167F0B200852CA8 /* IngredientesTableViewController.swift */,
 				E04B84512167F0F000852CA8 /* ingredienteTableViewCell.swift */,
+				E0C4ED342169E346004BD895 /* InicioViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -506,6 +509,7 @@
 				E051DA2E216697AE009B7496 /* RoundedView.swift in Sources */,
 				E051DA432166A3C3009B7496 /* CadastrarAnimalViewController.swift in Sources */,
 				E051DA2D216697AE009B7496 /* NavigationFontBebasNeue.swift in Sources */,
+				E0C4ED352169E347004BD895 /* InicioViewController.swift in Sources */,
 				E0263B4321679FD90027390B /* Produto.swift in Sources */,
 				A40CECA21F16D2D100EB6106 /* AppDelegate.swift in Sources */,
 				E051DA2C216697AE009B7496 /* FontBebasNeue.swift in Sources */,
